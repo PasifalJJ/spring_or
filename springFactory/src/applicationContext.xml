@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <beans>
-<bean id="UserDao" class="com.jsc.dao.impl.UserDao"/>
-<bean id="UserService" class="com.jsc.service.UserService"/>
+<bean id="UserDao" class="com.jsc.com.jsc.dao.impl.UserDao"/>
+<bean id="UserService" class="com.jsc.com.jsc.service.UserService"/>
 </beans>
