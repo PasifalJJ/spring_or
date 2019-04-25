@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/springFactory/springFactory.iml" filepath="$PROJECT_DIR$/springFactory/springFactory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springIOC/springIOC.iml" filepath="$PROJECT_DIR$/springIOC/springIOC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/transactionproxy/transactionproxy.iml" filepath="$PROJECT_DIR$/transactionproxy/transactionproxy.iml" />
     </modules>
   </component>
 </project>
