@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../springAOPxml/aaa.iml" filepath="$PROJECT_DIR$/../springAOPxml/aaa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springAnnoAOP/springAnnoAOP.iml" filepath="$PROJECT_DIR$/../springAnnoAOP/springAnnoAOP.iml" />
       <module fileurl="file://$PROJECT_DIR$/springFactory/springFactory.iml" filepath="$PROJECT_DIR$/springFactory/springFactory.iml" />
       <module fileurl="file://$PROJECT_DIR$/springIOC/springIOC.iml" filepath="$PROJECT_DIR$/springIOC/springIOC.iml" />
       <module fileurl="file://$PROJECT_DIR$/transactionproxy/transactionproxy.iml" filepath="$PROJECT_DIR$/transactionproxy/transactionproxy.iml" />

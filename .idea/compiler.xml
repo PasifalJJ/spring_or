@@ -6,11 +6,15 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="aaa" />
+        <module name="springAnnoAOP" />
         <module name="springIOC" />
         <module name="transactionproxy" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="9">
+      <module name="aaa" target="1.8" />
+      <module name="springAnnoAOP" target="1.8" />
       <module name="springIOC" target="1.5" />
       <module name="transactionproxy" target="1.8" />
       <module name="u_aop" target="1.8" />

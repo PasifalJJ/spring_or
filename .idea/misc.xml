@@ -5,6 +5,8 @@
       <list>
         <option value="$PROJECT_DIR$/springIOC/pom.xml" />
         <option value="$PROJECT_DIR$/transactionproxy/pom.xml" />
+        <option value="$PROJECT_DIR$/../springAnnoAOP/pom.xml" />
+        <option value="$PROJECT_DIR$/../springAOPxml/pom.xml" />
       </list>
     </option>
   </component>
